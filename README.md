@@ -10,4 +10,4 @@ This repository contains basic application of visualization packages in python a
 
 
 # projects:
-1. [Exploring the Bitcoin cryptocurrency market]()
+1. [Exploring the Bitcoin cryptocurrency market](https://github.com/LunaYogada/Data_visualization/blob/master/Exploring%20the%20Bitcoin%20cryptocurrency%20market/notebook.ipynb)
