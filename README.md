@@ -12,4 +12,4 @@ This repository contains basic application of visualization packages in python a
 # projects:
 1. [Exploring the Bitcoin cryptocurrency market](https://github.com/LunaYogada/Data_visualization/blob/master/Exploring%20the%20Bitcoin%20cryptocurrency%20market/notebook.ipynb)
 
-[lala](https://hub.mybinder.org/user/ipython-ipython-in-depth-ok26uh73/notebooks/binder/Index.ipynb)
+[lala](https://hub.mybinder.org/user/ipython-ipython-in-depth-ok26uh73/notebooks/binder/What%20cause%20an%20employee%20leave%20the%20company.ipynb)
