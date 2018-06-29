@@ -10,6 +10,10 @@ This repository contains basic application of visualization packages in python a
 
 
 # projects:
-1. [Exploring the Bitcoin cryptocurrency market](https://github.com/LunaYogada/Data_visualization/blob/master/Exploring%20the%20Bitcoin%20cryptocurrency%20market/notebook.ipynb)
+1. [Exploring the Bitcoin cryptocurrency market](https://github.com/LunaYogada/Data_visualization/blob/master/Exploring%20the%20Bitcoin%20cryptocurrency%20market/notebook.ipynb)  
 
-2. [lala](http://nbviewer.jupyter.org/github/LunaYogada/Data_visualization/blob/master/Human%20resource%20analysis/What%20cause%20an%20employee%20leave%20the%20company.ipynb)
+Visualize the market with df.plot
+
+2. [What cause an employee leave the company?](http://nbviewer.jupyter.org/github/LunaYogada/Data_visualization/blob/master/Human%20resource%20analysis/What%20cause%20an%20employee%20leave%20the%20company.ipynb)  
+
+EDA with plotly and render with [nbviewer](http://nbviewer.jupyter.org/)
